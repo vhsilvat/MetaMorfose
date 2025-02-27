@@ -1,0 +1,13 @@
+{
+  "functions": "./convex/**/*.ts",
+  "authInfo": [
+    {
+      "domain": "https://electric-worm-5.clerk.accounts.dev",
+      "applicationID": "clerk"
+    }
+  ],
+  "deployment": {
+    "project": "metamorfose",
+    "provider": "clerk"
+  }
+}
